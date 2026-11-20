@@ -1,0 +1,16 @@
+name: LootAll
+main: me.lootall.LootAllPlugin
+version: 1.0.0
+api-version: '1.21'
+description: Herkese ortak sans carki ile esya dagitir.
+
+commands:
+  lootall:
+    description: Sans carkini cevirir, kazanan esya herkese verilir.
+    usage: /lootall [reload]
+    permission: lootall.use
+
+permissions:
+  lootall.use:
+    description: /lootall komutunu kullanma izni
+    default: op

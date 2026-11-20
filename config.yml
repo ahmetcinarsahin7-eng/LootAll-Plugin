@@ -1,0 +1,29 @@
+# Carkta cikabilecek esyalar.
+# material: Minecraft esya adi (BREEZE_ROD, GOLDEN_APPLE, ...)
+# amount:   Herkese verilecek adet
+# weight:   Cikma sansi (buyuk sayi = daha sik cikar)
+items:
+  - material: BREEZE_ROD
+    amount: 3
+    weight: 20
+  - material: GOLDEN_APPLE
+    amount: 2
+    weight: 20
+  - material: WIND_CHARGE
+    amount: 16
+    weight: 15
+  - material: ENDER_PEARL
+    amount: 4
+    weight: 15
+  - material: DIAMOND
+    amount: 3
+    weight: 10
+  - material: COOKED_BEEF
+    amount: 16
+    weight: 15
+  - material: ENCHANTED_GOLDEN_APPLE
+    amount: 1
+    weight: 3
+  - material: NETHERITE_INGOT
+    amount: 1
+    weight: 2
